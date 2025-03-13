@@ -17,7 +17,7 @@ def is_enabled(value, default):
 # ============================
 # Bot Information Configuration
 # ============================
-SESSION = environ.get('SESSION', 'BQG9a8UAwJc_wvZBqgFIObjZSx5CForXVGjCY0xQ0g2WTkHovBVeXBAxtEgqatFLZTJr2jWaLoiPr2o1f-uUi7C9E93EqRDdll1Br6d-af6K-wm1UKsQnFyJJd9Mc0eOSBMt5jKno0rP50ZJSelrua8vHAbBq7zWdviqCdzyLAfSwoMshGgYP2B0pCBOn2rHV49fa1x8YbO54ZPzktNpRoGWartwwfZ_hrzTxJtNQDYb76P8GQliAMQDxE_Rp5-M6nqdmWgPgD-ssfLEOY2hFQpblK7oRiJQgtMX30WAOZRFe1v1T_EgYgKfz1TGGNesd0D7Fq9aLery64t_NjhsMJNpzdJ19AAAAAHCdx9YAQ')
+SESSION = environ.get('SESSION', 'CaptainNel')
 API_ID = int(environ.get('API_ID', '29191109'))
 API_HASH = environ.get('API_HASH', 'cac582c764755531d7fde92e444a23b7')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
